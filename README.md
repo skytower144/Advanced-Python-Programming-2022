@@ -1,4 +1,4 @@
-# 2022 고급파이썬프로그래밍 II (금-456)
+# 2022 고급파이썬프로그래밍 (금 456)
 
 ## Curriculum
 | WEEK | DESCRIPTION | LINK |
