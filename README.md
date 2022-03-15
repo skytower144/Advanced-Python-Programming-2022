@@ -3,7 +3,7 @@
 ## Curriculum
 | WEEK | DESCRIPTION | LINK |
 |:----:|:-----------:|:----:|
-| 01 | Anaconda Install / Data: Types, Values, Variables, and Names| [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/test.py)|
+| 01 | Anaconda Install / Data: Types, Values, Variables, and Names| [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_01.ipynb)|
 | 02 |                    |      |
 | 03 |                    |      |
 | 04 |                    |      |
