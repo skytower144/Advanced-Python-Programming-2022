@@ -4,7 +4,7 @@
 | WEEK | DESCRIPTION | LINK |
 |:----:|:-----------:|:----:|
 | 01 | Anaconda Install / Data: Types, Values, Variables, and Names| [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_01.ipynb)|
-| 02 |                    |      |
+| 02 |           Variables, Numbers, if Statement                  | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_02.ipynb)|
 | 03 |                    |      |
 | 04 |                    |      |
 | 05 |                    |      |
