@@ -8,7 +8,7 @@
 | 03 | Nested Conditional, Keyword in, Walrus, Escape Sequence, NLTK    | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_03.ipynb)|
 | 04 | String Methods, Frequency Distribution, List Comprehension, Loop | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_04.ipynb)|
 | 05 | for & while loop, NLTK Corpus, Conditional FDIST                 | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_05.ipynb)|
-| 06 |                    |      |
+| 06 | Inaugural, CFD, Tuple & List, Unpacking, List Comprehension      | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_06.ipynb)|
 | 07 |                    |      |
 | 08 |   ***Midterm***    |      |
 | 09 |                    |      |
