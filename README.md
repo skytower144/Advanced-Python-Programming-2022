@@ -12,7 +12,7 @@
 | 07 | Functions, Naming Convention, Argument & Parameter, Docstring    | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_07.ipynb)|
 | 08 |   ***Midterm***    |      |
 | 09 | Dictionary, Dictionary Comprehension, Set, pylint                | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_09.ipynb)|
-| 10 |                    |      |
+| 10 | Class, Encapusulation, Get, Set                                  | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_10.ipynb)| 
 | 11 |                    |      |
 | 12 |                    |      |
 | 13 |                    |      |
