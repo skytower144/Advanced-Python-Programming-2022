@@ -13,7 +13,7 @@
 | 08 |   ***Midterm***    |      |
 | 09 | Dictionary, Dictionary Comprehension, Set, pylint                | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_09.ipynb)|
 | 10 | Class, Encapusulation, Get, Set                                  | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_10.ipynb)| 
-| 11 |                    |      |
+| 11 | MRO, Class Methods - Instance, Class, Static, Abstract           | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_11.ipynb)|
 | 12 |                    |      |
 | 13 |                    |      |
 | 14 |                    |      |
