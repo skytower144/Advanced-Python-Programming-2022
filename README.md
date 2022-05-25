@@ -14,7 +14,7 @@
 | 09 | Dictionary, Dictionary Comprehension, Set, pylint                | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_09.ipynb)|
 | 10 | Class, Encapusulation, Get, Set                                  | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_10.ipynb)| 
 | 11 | MRO, Class Methods - Instance, Class, Static, Abstract           | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_11.ipynb)|
-| 12 |                    |      |
+| 12 | Magic Method, Named Tuple, DataClass, Asterisk, Keyword Arguments| [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_12.ipynb)| 
 | 13 |                    |      |
 | 14 |                    |      |
 | 15 |                    |      |
