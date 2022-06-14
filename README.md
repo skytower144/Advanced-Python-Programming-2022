@@ -17,5 +17,5 @@
 | 12 | Magic Method, Named Tuple, DataClass, Asterisk, Keyword Arguments| [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_12.ipynb)| 
 | 13 |         -          |      |
 | 14 | First Class Object, Closure, Scope, Generator, Exception Handling| [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_14.ipynb)|
-| 15 |                    |      |
+| 15 |  File and Directory, Pickle                                      | [+](https://github.com/HUFS-Programming-2022/Joowoan_201803939/blob/main/week_15.ipynb)|
 | 16 |  ***Final Exam***  |      |
